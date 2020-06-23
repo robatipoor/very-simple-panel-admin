@@ -176,3 +176,6 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/sql,golang,code,intellij,eclipse
 n
+vspa.sql
+go.sum
+very-simple-panel-admin
